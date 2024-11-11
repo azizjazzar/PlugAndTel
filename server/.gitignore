@@ -1,9 +1,0 @@
-# Node.js
-node_modules/
-
-
-# Éditeurs de texte et systèmes d'exploitation
-.DS_Store       # Fichier macOS
-Thumbs.db       # Fichier Windows
-.idea/          # Configuration de WebStorm/IntelliJ
-.vscode/        # Configuration de Visual Studio Code
