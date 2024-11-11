@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "audioProcessor.js",
+  "scripts": {
+    "start": "node audioProcessor.js",
+    "dev": "nodemon audioProcessor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

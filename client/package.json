@@ -1,0 +1,17 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "main": "audioStreamer.js",
+  "scripts": {
+    "start": "node node audioStreamer.js",
+    "dev": "nodemon audioProcessor.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
