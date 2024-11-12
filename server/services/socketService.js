@@ -36,7 +36,6 @@ class SocketService {
       });
     });
 
-    console.log('Server listening on http://localhost:3000');
   }
 }
 
