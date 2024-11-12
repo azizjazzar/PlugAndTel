@@ -1,13 +1,17 @@
 import fs from 'fs';
 import wav from 'wav';
 
-class AudioRecorder {
+class audioService {
   constructor(sampleRate = 16000, channels = 1, bitDepth = 16) {
     this.sampleRate = sampleRate;
     this.channels = channels;
     this.bitDepth = bitDepth;
     this.audioChunks = [];
-    this.fileIndex = 1;
+    this.outputDir = '../audio';
+
+    if (!fs.existsSync(this.outputDir)) {
+      fs.mkdirSync(this.outputDir, { recursive: true });
+    }
   }
 
   addAudioData(data) {
@@ -18,12 +22,10 @@ class AudioRecorder {
     this.audioChunks = [];
   }
 
-  getUniqueFileName(baseName = 'output') {
-    let filePath = `${baseName}_${this.fileIndex}.wav`;
-    while (fs.existsSync(filePath)) {
-      this.fileIndex++;
-      filePath = `${baseName}_${this.fileIndex}.wav`;
-    }
+  getUniqueFileName() {
+    const now = new Date();
+    const dateString = now.toISOString().replace(/[-:.]/g, '_'); 
+    const filePath = `${this.outputDir}/${dateString}.wav`;
     return filePath;
   }
 
@@ -53,4 +55,4 @@ class AudioRecorder {
   }
 }
 
-export default new AudioRecorder();
+export default new audioService();
