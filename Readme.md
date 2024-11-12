@@ -1,6 +1,6 @@
 # Projet de Streaming Audio avec Reconnexion - Serveur et Client
 
-Ce projet implémente un serveur et un client pour le streaming audio en temps réel avec gestion de la reconnexion.
+Ce projet implémente un serveur et un client pour le streaming audio en temps réel
 
 ## Capture d'écran
 
