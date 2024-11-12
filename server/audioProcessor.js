@@ -1,74 +1,18 @@
-import fs from 'fs';
-import WebSocket from 'ws';
-import Vad from 'node-vad';
-import wav from 'node-wav';
+import http from 'http';
+import AudioRecorder from './services/audioService.js';
+import SocketService from './services/socketService.js';
 
-const ws = new WebSocket('ws://localhost:3000');
-
-const vadInstance = new Vad(Vad.Mode.NORMAL);  // Initialize VAD instance in normal mode
-let audioChunks = [];
-let isRecording = false;
-let silenceTimeout = null;
-
-ws.on('message', (data) => {
-  const audioBuffer = Buffer.from(data);
-  audioChunks.push(audioBuffer);
-
-  // Process audio using the processAudio method
-  vadInstance.processAudio(audioBuffer, 16000).then(res => {
-    switch (res) {
-      case Vad.Event.ERROR:
-        console.log("ERROR");
-        break;
-      case Vad.Event.NOISE:
-        console.log("NOISE");
-        break;
-      case Vad.Event.SILENCE:
-        console.log("SILENCE");
-        if (isRecording) {
-          startSilenceTimeout();
-        }
-        break;
-      case Vad.Event.VOICE:
-        console.log("VOICE");
-        if (!isRecording) {
-          console.log('Voice detected, starting recording');
-          isRecording = true;
-          startRecording();
-        }
-        resetSilenceTimeout();
-        break;
-    }
-  }).catch(console.error);
+const server = http.createServer((req, res) => {
+  res.writeHead(200, { 'Content-Type': 'text/plain' });
+  res.end('Audio Recording Server');
 });
 
-function startRecording() {
-  const writer = fs.createWriteStream('output.wav', { flags: 'a' });
+const socketService = new SocketService(server);
 
-  if (audioChunks.length === 1) {
-    writer.write(wav.encode(audioChunks, { sampleRate: 16000, float: true }));
-  }
-}
+socketService.setAudioRecorder(AudioRecorder);
 
-function resetSilenceTimeout() {
-  if (silenceTimeout) {
-    clearTimeout(silenceTimeout);
-  }
-}
+socketService.startListening();
 
-function startSilenceTimeout() {
-  silenceTimeout = setTimeout(() => {
-    if (isRecording) {
-      console.log('Silence detected, stopping recording');
-      isRecording = false;
-      stopRecording();
-    }
-  }, 3000);
-}
-
-function stopRecording() {
-  const writer = fs.createWriteStream('output.wav', { flags: 'a' });
-  writer.write(wav.encode(audioChunks, { sampleRate: 16000, float: true }));
-  writer.end();
-  audioChunks = [];
-}
+server.listen(3000, () => {
+  console.log('Server is running at http://localhost:3000');
+});
