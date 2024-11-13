@@ -1,5 +1,6 @@
 // SocketService.js
 import { io } from 'socket.io-client';
+import clientLogger from '../../logService/clientLogger.js';
 
 class SocketService {
   constructor(serverUrl) {
@@ -10,13 +11,13 @@ class SocketService {
 
   connect() {
     this.clientSocket.on('connect', () => {
-      console.log('Connected to the server');
+        clientLogger.info('Connected to the server');
       this.isConnected = true;
       this.onConnect();
     });
 
     this.clientSocket.on('disconnect', () => {
-      console.log('Disconnected from server');
+        clientLogger.info('Disconnected from server');
       this.isConnected = false;
       this.onDisconnect();
     });
@@ -34,7 +35,7 @@ class SocketService {
     if (this.isConnected) {
       this.clientSocket.emit(event, data);
     } else {
-      console.log('Server is not reachable. Data not sent.');
+        clientLogger.info('Server is not reachable. Data not sent.');
     }
   }
 

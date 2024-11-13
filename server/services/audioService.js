@@ -1,6 +1,6 @@
 import fs from 'fs';
 import wav from 'wav';
-
+import serverLogger from '../../logService/serverLogger.js';
 class audioService {
   constructor(sampleRate = 16000, channels = 1, bitDepth = 16) {
     this.sampleRate = sampleRate;
@@ -31,7 +31,7 @@ class audioService {
 
   saveWavFile() {
     if (this.audioChunks.length === 0) {
-      console.log('No audio data to save.');
+      serverLogger.info('No audio data to save.');
       return;
     }
     const audioData = Buffer.concat(this.audioChunks); 
@@ -47,7 +47,7 @@ class audioService {
     writer.end(); 
 
     this.resetAudioChunks(); 
-    console.log(`WAV file created and saved as ${filePath}`);
+    serverLogger.info(`WAV file created and saved as ${filePath}`);
   }
 
   isAudioChunkEmpty() {

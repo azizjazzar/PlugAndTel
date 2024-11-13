@@ -1,4 +1,5 @@
 import { Server } from 'socket.io';
+import serverLogger from '../../logService/serverLogger.js';
 
 class SocketService {
   constructor(server) {
@@ -12,17 +13,17 @@ class SocketService {
 
   startListening() {
     this.io.on('connection', (socket) => {
-      console.log('Client connected');
+      serverLogger.info('Client connected');
 
       socket.on('Stream_Data', (data) => {
-        console.log('Received audio data (chunk size):', data);
+        serverLogger.info('Received audio data (chunk size):' + data.length);
         if (this.audioRecorder) {
           this.audioRecorder.addAudioData(data);
         }
       });
 
       socket.on('End_Recording', () => {
-        console.log('End recording signal received');
+        serverLogger.info('End recording signal received');
         if (this.audioRecorder) {
           this.audioRecorder.saveWavFile();
         }
@@ -32,7 +33,7 @@ class SocketService {
         if (this.audioRecorder && !this.audioRecorder.isAudioChunkEmpty()) {
           this.audioRecorder.saveWavFile();
         }
-        console.log('Client disconnected');
+        serverLogger.info('Client disconnected');
       });
     });
 
