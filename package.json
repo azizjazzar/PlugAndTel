@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "concurrently \"npm run start-client\" \"npm run start-server\"",
-    "start-client": "cd client && node audioStreamer.js",
-    "start-server": "cd server && node audioProcessor.js"
+    "start-client": "start cmd /k \"cd client && node audioStreamer.js\"",
+    "start-server": "start cmd /k \"cd server && node audioProcessor.js\""
   },
   "dependencies": {
     "concurrently": "^9.1.0",

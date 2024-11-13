@@ -19,10 +19,11 @@ class AudioHandler {
         this.isMicActive = false;
 
         this.micInputStream.on('error', (err) => {
-            clientLogger.error('Microphone input stream error:', err);
+            clientLogger.error('Microphone input stream error:' + err);
             this.stopRecording();
         });
 
+        // Traitement des données audio en temps réel
         this.micInputStream.on('data', this.handleAudioStream.bind(this));
     }
 
@@ -34,7 +35,7 @@ class AudioHandler {
                 this.isMicActive = true;
                 clientLogger.info('Recording started...');
             } catch (error) {
-                clientLogger.error('Error starting microphone:', error);
+                clientLogger.error('Error starting microphone:' + error);
             }
         } else {
             clientLogger.warn('Microphone is already active or server is not connected.');
@@ -43,13 +44,12 @@ class AudioHandler {
 
     stopRecording() {
         if (this.isMicActive) {
-            clientLogger.info('Stopping recording...');
             try {
                 micInstance.stop();
                 this.isMicActive = false;
                 clientLogger.info('Recording stopped...');
             } catch (error) {
-                clientLogger.error('Error stopping microphone:', error);
+                clientLogger.error('Error stopping microphone:' + error);
             }
         }
     }
@@ -84,7 +84,7 @@ class AudioHandler {
                 }
             }
         } catch (error) {
-            clientLogger.error('Error processing audio:', error);
+            clientLogger.error('Error processing audio:'+ error);
         }
     }
 }

@@ -1,0 +1,284 @@
+2024-11-13T10:21:21.289Z [info] Server is running at http://localhost:3000
+2024-11-13T10:21:21.326Z [info] Client connected
+2024-11-13T10:21:26.803Z [error] Server has been down
+2024-11-13T10:22:00.417Z [info] Server is running at http://localhost:3000
+2024-11-13T10:22:01.388Z [info] Client connected
+2024-11-13T10:22:12.954Z [info] Received audio data (chunk size):8192
+2024-11-13T10:22:13.122Z [info] Received audio data (chunk size):8192
+2024-11-13T10:22:13.462Z [info] Received audio data (chunk size):8192
+2024-11-13T10:22:13.631Z [info] Received audio data (chunk size):8192
+2024-11-13T10:22:13.971Z [info] Received audio data (chunk size):8192
+2024-11-13T10:22:14.141Z [info] Received audio data (chunk size):8192
+2024-11-13T10:22:14.491Z [info] Received audio data (chunk size):8192
+2024-11-13T10:22:14.662Z [info] Received audio data (chunk size):8192
+2024-11-13T10:22:15.002Z [info] Received audio data (chunk size):8192
+2024-11-13T10:22:18.071Z [info] End recording signal received
+2024-11-13T10:22:18.075Z [info] WAV file created and saved as ../audio/2024_11_13T10_22_18_072Z.wav
+2024-11-13T10:22:21.468Z [error] Server has been down
+2024-11-13T10:24:30.110Z [info] Server is running at http://localhost:3000
+2024-11-13T10:24:35.742Z [info] Client connected
+2024-11-13T10:24:45.980Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:46.328Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:46.498Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:46.838Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:47.008Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:55.905Z [info] Server is running at http://localhost:3000
+2024-11-13T10:24:56.390Z [info] Client connected
+2024-11-13T10:24:58.226Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:58.393Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:58.734Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:58.903Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:59.252Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:59.422Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:59.762Z [info] Received audio data (chunk size):8192
+2024-11-13T10:24:59.933Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:00.272Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:00.442Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:03.513Z [info] End recording signal received
+2024-11-13T10:25:03.515Z [info] WAV file created and saved as ../audio/2024_11_13T10_25_03_513Z.wav
+2024-11-13T10:25:05.053Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:05.392Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:05.562Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:05.902Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:06.072Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:06.413Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:06.582Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:06.932Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:07.442Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:07.613Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:07.952Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:11.022Z [info] End recording signal received
+2024-11-13T10:25:11.024Z [info] WAV file created and saved as ../audio/2024_11_13T10_25_11_023Z.wav
+2024-11-13T10:25:14.263Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:14.612Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:14.782Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:15.122Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:15.293Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:15.632Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:15.802Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:16.142Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:16.312Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:16.652Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:16.822Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:17.172Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:17.342Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:17.682Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:17.853Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:18.192Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:18.362Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:18.702Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:18.872Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:19.902Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:20.242Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:20.412Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:20.752Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:20.922Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:21.432Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:21.773Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:21.942Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:22.292Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:22.462Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:22.802Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:22.973Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:23.312Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:26.382Z [info] End recording signal received
+2024-11-13T10:25:26.383Z [info] WAV file created and saved as ../audio/2024_11_13T10_25_26_382Z.wav
+2024-11-13T10:25:55.572Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:55.742Z [info] Received audio data (chunk size):8192
+2024-11-13T10:25:58.812Z [info] End recording signal received
+2024-11-13T10:25:58.813Z [info] WAV file created and saved as ../audio/2024_11_13T10_25_58_813Z.wav
+2024-11-13T10:26:01.882Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:02.222Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:02.392Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:05.462Z [info] End recording signal received
+2024-11-13T10:26:05.463Z [info] WAV file created and saved as ../audio/2024_11_13T10_26_05_462Z.wav
+2024-11-13T10:26:13.142Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:14.002Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:14.172Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:17.241Z [info] End recording signal received
+2024-11-13T10:26:17.242Z [info] WAV file created and saved as ../audio/2024_11_13T10_26_17_242Z.wav
+2024-11-13T10:26:23.732Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:26.802Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:26.972Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:27.312Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:27.482Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:30.552Z [info] End recording signal received
+2024-11-13T10:26:30.552Z [info] WAV file created and saved as ../audio/2024_11_13T10_26_30_552Z.wav
+2024-11-13T10:26:40.792Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:41.132Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:41.821Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:42.161Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:43.352Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:43.692Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:46.772Z [info] End recording signal received
+2024-11-13T10:26:46.773Z [info] WAV file created and saved as ../audio/2024_11_13T10_26_46_772Z.wav
+2024-11-13T10:26:50.604Z [info] Server is running at http://localhost:3000
+2024-11-13T10:26:51.378Z [info] Client connected
+2024-11-13T10:26:53.885Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:54.234Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:54.403Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:54.743Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:54.914Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:55.253Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:55.423Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:56.273Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:56.443Z [info] Received audio data (chunk size):8192
+2024-11-13T10:26:59.523Z [info] End recording signal received
+2024-11-13T10:26:59.525Z [info] WAV file created and saved as ../audio/2024_11_13T10_26_59_523Z.wav
+2024-11-13T10:27:17.784Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:53.841Z [info] Server is running at http://localhost:3000
+2024-11-13T10:27:54.210Z [info] Client connected
+2024-11-13T10:27:55.190Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:55.529Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:55.698Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:56.037Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:56.209Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:56.548Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:56.718Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:57.237Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:57.578Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:57.748Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:58.089Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:58.259Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:58.599Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:58.768Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:59.108Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:59.277Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:59.628Z [info] Received audio data (chunk size):8192
+2024-11-13T10:27:59.800Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:01.839Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:02.188Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:02.358Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:02.698Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:02.868Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:03.208Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:03.377Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:03.718Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:03.888Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:04.228Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:04.398Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:07.479Z [info] End recording signal received
+2024-11-13T10:28:07.483Z [info] WAV file created and saved as ../audio/2024_11_13T10_28_07_480Z.wav
+2024-11-13T10:28:12.938Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:13.618Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:13.959Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:17.028Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:17.548Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:18.058Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:18.228Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:18.568Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:18.737Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:19.077Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:19.248Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:19.758Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:20.108Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:20.277Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:20.618Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:20.788Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:21.128Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:21.298Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:21.639Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:21.808Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:23.858Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:26.929Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:29.997Z [info] End recording signal received
+2024-11-13T10:28:29.998Z [info] WAV file created and saved as ../audio/2024_11_13T10_28_29_998Z.wav
+2024-11-13T10:28:33.418Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:36.488Z [info] End recording signal received
+2024-11-13T10:28:36.489Z [info] WAV file created and saved as ../audio/2024_11_13T10_28_36_488Z.wav
+2024-11-13T10:28:42.628Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:44.848Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:45.188Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:45.357Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:46.729Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:46.898Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:47.238Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:47.408Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:47.748Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:47.918Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:48.438Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:48.778Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:48.948Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:49.288Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:49.457Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:49.797Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:49.969Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:50.308Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:50.478Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:50.828Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:50.998Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:54.069Z [info] End recording signal received
+2024-11-13T10:28:54.069Z [info] WAV file created and saved as ../audio/2024_11_13T10_28_54_069Z.wav
+2024-11-13T10:28:58.158Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:59.018Z [info] Received audio data (chunk size):8192
+2024-11-13T10:28:59.188Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:00.717Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:02.598Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:05.357Z [info] Client connected
+2024-11-13T10:29:05.668Z [info] End recording signal received
+2024-11-13T10:29:05.669Z [info] WAV file created and saved as ../audio/2024_11_13T10_29_05_669Z.wav
+2024-11-13T10:29:13.633Z [info] Server is running at http://localhost:3000
+2024-11-13T10:29:14.839Z [info] Client connected
+2024-11-13T10:29:15.813Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:16.152Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:16.661Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:16.831Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:17.174Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:17.342Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:17.692Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:17.860Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:18.201Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:18.372Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:18.711Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:18.881Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:19.391Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:19.731Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:19.901Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:20.251Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:22.812Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:22.981Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:23.321Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:25.540Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:26.052Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:26.391Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:26.561Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:26.901Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:27.071Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:27.412Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:27.580Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:27.931Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:31.003Z [info] End recording signal received
+2024-11-13T10:29:31.006Z [info] WAV file created and saved as ../audio/2024_11_13T10_29_31_004Z.wav
+2024-11-13T10:29:33.732Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:34.071Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:34.241Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:34.581Z [info] Received audio data (chunk size):8192
+2024-11-13T10:29:59.366Z [info] Server is running at http://localhost:3000
+2024-11-13T10:30:00.417Z [info] Client connected
+2024-11-13T10:30:00.885Z [info] Received audio data (chunk size):8192
+2024-11-13T10:30:01.221Z [info] Received audio data (chunk size):8192
+2024-11-13T10:30:01.390Z [info] Received audio data (chunk size):8192
+2024-11-13T10:30:01.730Z [info] Received audio data (chunk size):8192
+2024-11-13T10:30:01.901Z [info] Received audio data (chunk size):8192
+2024-11-13T10:30:02.240Z [info] Received audio data (chunk size):8192
+2024-11-13T10:30:02.410Z [info] Received audio data (chunk size):8192
+2024-11-13T10:30:05.480Z [info] End recording signal received
+2024-11-13T10:30:05.483Z [info] WAV file created and saved as ../audio/2024_11_13T10_30_05_481Z.wav
+2024-11-13T10:30:24.431Z [info] Received audio data (chunk size):8192
+2024-11-13T10:30:27.500Z [info] End recording signal received
+2024-11-13T10:30:27.501Z [info] WAV file created and saved as ../audio/2024_11_13T10_30_27_500Z.wav
+2024-11-13T10:32:47.029Z [info] Server is running at http://localhost:3000
+2024-11-13T10:32:47.572Z [info] Client connected
+2024-11-13T10:32:52.478Z [info] Received audio data (chunk size):8192
+2024-11-13T10:32:54.187Z [info] Received audio data (chunk size):8192
+2024-11-13T10:32:54.527Z [info] Received audio data (chunk size):8192
+2024-11-13T10:32:54.697Z [info] Received audio data (chunk size):8192
+2024-11-13T10:32:56.236Z [info] Received audio data (chunk size):8192
+2024-11-13T10:32:56.577Z [info] Received audio data (chunk size):8192
+2024-11-13T10:32:56.745Z [info] Received audio data (chunk size):8192
+2024-11-13T10:32:57.086Z [info] Received audio data (chunk size):8192
+2024-11-13T10:32:57.256Z [info] Received audio data (chunk size):8192
+2024-11-13T10:32:57.596Z [info] Received audio data (chunk size):8192
+2024-11-13T10:32:57.767Z [info] Received audio data (chunk size):8192
+2024-11-13T10:33:00.847Z [info] End recording signal received
+2024-11-13T10:33:00.850Z [info] WAV file created and saved as ../audio/2024_11_13T10_33_00_848Z.wav

@@ -6,7 +6,7 @@ Ce projet implémente un serveur et un client pour le streaming audio en temps r
 
 Voici une capture d'écran du client en fonctionnement :
 
-![Client en fonctionnement](assets/client-screen.png)
+![Client en fonctionnement](./assets/Server-client(cmd).jpg)
 
 ## Fonctionnement
 
