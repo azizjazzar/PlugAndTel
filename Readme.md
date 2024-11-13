@@ -49,6 +49,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 3-Un silence de 3 secondes ou une interruption arrête l'enregistrement et génère un fichier .wav dans ./audio.
 
 4-Le fichier audio généré peut être écouté depuis le répertoire ./audio
+
 ---
 
 ## Structure des fichiers
