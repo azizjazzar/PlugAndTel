@@ -8,7 +8,6 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 - [Node.js](https://nodejs.org/) (version >= 20.16.0)
 - [NPM](https://www.npmjs.com/) (version >= 10.8.1)
 
-![Client en fonctionnement](./assets/Server-client(cmd).jpg)
 
 ## Installation
 
@@ -40,7 +39,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 
 2. Voici ce que vous allez voir : à droite le côté serveur et à gauche le côté client :
 
-   ![Flux de données](./assets/data-flow.png)
+![Client en fonctionnement](./assets/Server-client(cmd).jpg)
 
 ---
 
