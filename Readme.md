@@ -40,7 +40,15 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 2. Voici ce que vous allez voir : à droite le côté serveur et à gauche le côté client :
 
 ![Client en fonctionnement](./assets/Server-client(cmd).jpg)
+ 
+## Comment ça marche :
+1-Parler pour commencer l'enregistrement
 
+2-Visualisation du transfert (côté serveur)
+
+3-Un silence de 3 secondes ou une interruption arrête l'enregistrement et génère un fichier .wav dans ./audio.
+
+4-Le fichier audio généré peut être écouté depuis le répertoire ./audio
 ---
 
 ## Structure des fichiers
