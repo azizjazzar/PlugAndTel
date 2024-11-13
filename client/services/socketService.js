@@ -13,23 +13,15 @@ class SocketService {
     this.clientSocket.on('connect', () => {
         clientLogger.info('Connected to the server');
       this.isConnected = true;
-      this.onConnect();
     });
 
     this.clientSocket.on('disconnect', () => {
         clientLogger.info('Disconnected from server');
       this.isConnected = false;
-      this.onDisconnect();
     });
   }
 
-  onConnect() {
-    // Action à prendre lors de la connexion (ex : démarrer l'enregistrement)
-  }
-
-  onDisconnect() {
-    // Action à prendre lors de la déconnexion (ex : arrêter l'enregistrement)
-  }
+ 
 
   sendData(event, data) {
     if (this.isConnected) {

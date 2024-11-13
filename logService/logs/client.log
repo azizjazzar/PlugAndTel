@@ -1,0 +1,73 @@
+[2024-11-13 10:13:28] INFO: Connected to the server
+[2024-11-13 10:13:28] INFO: Starting recording...
+[2024-11-13 10:13:28] INFO: Recording started...
+[2024-11-13 10:13:30] INFO: Voice detected, starting streaming...
+[2024-11-13 10:13:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:32] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:32] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:32] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:32] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:33] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:33] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:33] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:33] DEBUG: Silence duration: 169 ms
+[2024-11-13 10:13:34] DEBUG: Silence duration: 520 ms
+[2024-11-13 10:13:34] DEBUG: Silence duration: 690 ms
+[2024-11-13 10:13:34] DEBUG: Silence duration: 1029 ms
+[2024-11-13 10:13:34] DEBUG: Silence duration: 1200 ms
+[2024-11-13 10:13:35] DEBUG: Silence duration: 1540 ms
+[2024-11-13 10:13:35] DEBUG: Silence duration: 1710 ms
+[2024-11-13 10:13:35] DEBUG: Silence duration: 2050 ms
+[2024-11-13 10:13:35] DEBUG: Silence duration: 2220 ms
+[2024-11-13 10:13:36] DEBUG: Silence duration: 2560 ms
+[2024-11-13 10:13:36] DEBUG: Silence duration: 2730 ms
+[2024-11-13 10:13:36] DEBUG: Silence duration: 3080 ms
+[2024-11-13 10:13:36] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-13 10:13:47] INFO: Voice detected, starting streaming...
+[2024-11-13 10:13:47] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:47] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:47] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:48] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:48] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:48] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:48] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:49] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:49] DEBUG: Silence duration: 169 ms
+[2024-11-13 10:13:49] DEBUG: Silence duration: 520 ms
+[2024-11-13 10:13:49] DEBUG: Silence duration: 690 ms
+[2024-11-13 10:13:50] DEBUG: Silence duration: 1029 ms
+[2024-11-13 10:13:50] DEBUG: Silence duration: 1200 ms
+[2024-11-13 10:13:50] DEBUG: Silence duration: 1539 ms
+[2024-11-13 10:13:50] DEBUG: Silence duration: 1710 ms
+[2024-11-13 10:13:51] DEBUG: Silence duration: 2049 ms
+[2024-11-13 10:13:51] DEBUG: Silence duration: 2220 ms
+[2024-11-13 10:13:51] DEBUG: Silence duration: 2560 ms
+[2024-11-13 10:13:51] DEBUG: Silence duration: 2730 ms
+[2024-11-13 10:13:52] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:52] DEBUG: Silence duration: 170 ms
+[2024-11-13 10:13:52] DEBUG: Silence duration: 509 ms
+[2024-11-13 10:13:52] DEBUG: Silence duration: 679 ms
+[2024-11-13 10:13:53] DEBUG: Silence duration: 1019 ms
+[2024-11-13 10:13:53] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:53] DEBUG: Audio data sent to server in real-time:
+[2024-11-13 10:13:53] DEBUG: Silence duration: 171 ms
+[2024-11-13 10:13:54] DEBUG: Silence duration: 511 ms
+[2024-11-13 10:13:54] DEBUG: Silence duration: 680 ms
+[2024-11-13 10:13:54] DEBUG: Silence duration: 1031 ms
+[2024-11-13 10:13:54] DEBUG: Silence duration: 1200 ms
+[2024-11-13 10:13:55] DEBUG: Silence duration: 1541 ms
+[2024-11-13 10:13:55] DEBUG: Silence duration: 1711 ms
+[2024-11-13 10:13:55] DEBUG: Silence duration: 2051 ms
+[2024-11-13 10:13:55] DEBUG: Silence duration: 2221 ms
+[2024-11-13 10:13:56] DEBUG: Silence duration: 2561 ms
+[2024-11-13 10:13:56] DEBUG: Silence duration: 2731 ms
+[2024-11-13 10:13:56] DEBUG: Silence duration: 3071 ms
+[2024-11-13 10:13:56] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-13 10:13:57] ERROR: Client Server has been down
