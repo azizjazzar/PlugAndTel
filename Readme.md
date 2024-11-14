@@ -89,12 +89,11 @@ Les logs sont gérés via la bibliothèque **Winston**. Les fichiers de logs son
 ![pdf](./assets/SystemArchitectureDiagram.pdf)
 
 
+## Approche de Gestion des Erreurs et Retentatives
+Pour garantir une gestion fiable des erreurs, chaque service utilise un système de retentatives structuré :
 
-b) Approche de Gestion des Erreurs et Retentatives
-Pour chaque service, nous avons mis en place un système de gestion des erreurs pour garantir que les jobs échoués soient traités de manière appropriée :
+Tentatives automatiques En cas d’échec, un job est automatiquement retenté jusqu'à un nombre maximum de tentatives (par ex., 3 pour transcriptionQueue). Cela permet de gérer les erreurs temporaires sans intervention.
 
-Tentatives automatiques : Si un job échoue, il est automatiquement retenté jusqu'au nombre maximum de tentatives configuré (par exemple, 3 pour transcriptionQueue).
+Déplacement vers retryQueue Si un job échoue à plusieurs reprises, il est transféré dans une retryQueue dédiée.
 
-Déplacement vers retryQueue : Si un job échoue de façon répétée et atteint le maximum de tentatives dans une queue, il est transféré dans retryQueue. Cette queue est spécialement conçue pour essayer de traiter à nouveau ces jobs après un certain délai, en augmentant progressivement le délai entre chaque tentative (backoff exponentiel).
-
-Suivi et Enregistrement des Échecs : Chaque échec de job est enregistré. Si un job atteint le nombre maximum de tentatives dans retryQueue, il est marqué comme "failed" de manière définitive, et une alerte peut être générée pour enquête.
+Suivi des échecs et alertes  Chaque échec est enregistré pour une analyse ultérieure. Si un job atteint le nombre maximal de tentatives dans retryQueue, il est marqué comme "failed", et une alerte est générée pour une intervention.
