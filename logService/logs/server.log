@@ -564,3 +564,5 @@
 2024-11-13T18:13:51.413Z [info] Received audio data (chunk size):8192
 2024-11-13T18:13:51.583Z [info] Received audio data (chunk size):8192
 2024-11-13T18:13:51.923Z [info] Received audio data (chunk size):8192
+2024-11-14T10:25:53.198Z [info] Server is running at http://localhost:3000
+2024-11-14T10:25:54.340Z [info] Client connected

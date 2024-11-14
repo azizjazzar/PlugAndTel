@@ -1,5 +1,5 @@
 
-# PlugAndTell Second Use Case - Real-time Audio Processing System
+# PlugAndTel Second Use Case - Real-time Audio Processing System
 
 ## Prérequis
 
@@ -13,12 +13,12 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 
 1. Clonez ce projet :
    ```bash
-   git clone https://github.com/ton-utilisateur/PlugAndTell.git
+   git clone https://github.com/ton-utilisateur/PlugAndTel.git
    ```
 
 2. Accédez au répertoire du projet :
    ```bash
-   cd PlugAndTell
+   cd PlugAndTel
    ```
 
 3. Installez les dépendances :
@@ -57,7 +57,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 Voici un aperçu de la structure des fichiers de l'application :
 
 ```plaintext
-PlugAndTell/
+PlugAndTel/
 │
 ├── client/
 │   └── audioStreamer.js         # Gère l'enregistrement et l'envoi de l'audio au serveur
