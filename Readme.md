@@ -86,7 +86,7 @@ Les logs sont gérés via la bibliothèque **Winston**. Les fichiers de logs son
 ## Architecture Documentation
 
 
-![pdf](./assets/SystemArchitectureDiagram.pdf)
+![pdf](./assets/Plugandtel.png)
 
 
 ## Approche de Gestion des Erreurs et Retentatives

@@ -14,7 +14,7 @@ const clientLogger = createLogger({
     format.printf((info) => `[${info.timestamp}] ${info.level.toUpperCase()}: ${info.message}`)
   ),
   transports: [
-    // Log dans la console (affichage normal sans couleur)
+    // Log dans la console 
     new transports.Console({
       format: format.combine(
         format.printf((info) => `[${info.timestamp}] ${info.level.toUpperCase()}: ${info.message}`)

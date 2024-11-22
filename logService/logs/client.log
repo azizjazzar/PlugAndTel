@@ -1719,3 +1719,762 @@
 [2024-11-14 11:25:54] INFO: Recording started...
 [2024-11-14 11:25:55] INFO: Disconnected from server
 [2024-11-14 11:25:55] INFO: Recording stopped...
+[2024-11-21 18:47:46] INFO: Connected to the server at http://localhost:3000
+[2024-11-21 18:47:46] INFO: Starting recording...
+[2024-11-21 18:47:47] INFO: Recording started...
+[2024-11-21 18:47:49] INFO: Voice detected, starting streaming...
+[2024-11-21 18:47:49] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:47:49] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:47:49] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:47:49] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:47:49] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:47:49] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:47:49] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:47:49] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:47:50] DEBUG: Silence duration: 340 ms
+[2024-11-21 18:47:50] DEBUG: Silence duration: 510 ms
+[2024-11-21 18:47:50] DEBUG: Silence duration: 860 ms
+[2024-11-21 18:47:50] DEBUG: Silence duration: 1030 ms
+[2024-11-21 18:47:51] DEBUG: Silence duration: 1370 ms
+[2024-11-21 18:47:51] DEBUG: Silence duration: 1540 ms
+[2024-11-21 18:47:51] DEBUG: Silence duration: 1880 ms
+[2024-11-21 18:47:51] DEBUG: Silence duration: 2050 ms
+[2024-11-21 18:47:52] DEBUG: Silence duration: 2390 ms
+[2024-11-21 18:47:52] DEBUG: Silence duration: 2560 ms
+[2024-11-21 18:47:52] DEBUG: Silence duration: 2900 ms
+[2024-11-21 18:47:52] DEBUG: Silence duration: 3070 ms
+[2024-11-21 18:47:52] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-21 18:47:52] DEBUG: Sending data to server: End_Recording
+[2024-11-21 18:47:58] INFO: Voice detected, starting streaming...
+[2024-11-21 18:47:58] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:47:58] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:47:59] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:47:59] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:47:59] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:47:59] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:47:59] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:47:59] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:47:59] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:47:59] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:00] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:00] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:00] DEBUG: Silence duration: 170 ms
+[2024-11-21 18:48:00] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:00] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:00] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:00] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:01] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:01] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:01] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:01] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:01] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:01] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:02] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:02] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:02] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:02] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:02] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:02] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:02] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:02] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:03] DEBUG: Silence duration: 171 ms
+[2024-11-21 18:48:03] DEBUG: Silence duration: 520 ms
+[2024-11-21 18:48:03] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:03] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:03] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:03] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:04] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:04] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:04] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:04] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:04] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:04] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:04] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:04] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:05] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:05] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:05] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:05] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:05] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:05] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:05] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:05] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:06] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:06] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:06] DEBUG: Silence duration: 340 ms
+[2024-11-21 18:48:06] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:06] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:06] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:06] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:07] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:07] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:07] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:07] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:07] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:07] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:07] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:07] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:08] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:08] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:08] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:08] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:08] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:08] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:09] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:09] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:09] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:09] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:09] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:09] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:09] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:09] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:10] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:10] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:10] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:10] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:10] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:10] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:10] DEBUG: Silence duration: 171 ms
+[2024-11-21 18:48:11] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:11] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:11] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:11] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:11] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:11] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:11] DEBUG: Silence duration: 170 ms
+[2024-11-21 18:48:12] DEBUG: Silence duration: 510 ms
+[2024-11-21 18:48:12] DEBUG: Silence duration: 680 ms
+[2024-11-21 18:48:12] DEBUG: Silence duration: 1020 ms
+[2024-11-21 18:48:12] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:12] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:13] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:13] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:13] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:13] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:13] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:13] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:13] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:13] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:14] DEBUG: Silence duration: 340 ms
+[2024-11-21 18:48:14] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:14] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:14] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:14] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:14] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:14] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:15] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:15] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:15] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:15] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:15] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:15] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:15] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:15] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:16] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:16] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:16] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:16] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:16] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:16] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:16] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:16] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:17] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:17] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:17] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:17] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:17] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:17] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:17] DEBUG: Silence duration: 170 ms
+[2024-11-21 18:48:18] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:18] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:18] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:18] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:18] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:18] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:18] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:18] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:19] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:19] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:19] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:19] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:19] DEBUG: Silence duration: 340 ms
+[2024-11-21 18:48:19] DEBUG: Silence duration: 510 ms
+[2024-11-21 18:48:20] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:20] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:20] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:20] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:20] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:20] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:20] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:20] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:21] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:21] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:21] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:21] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:21] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:21] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:21] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:21] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:22] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:22] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:22] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:22] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:22] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:22] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:22] DEBUG: Silence duration: 170 ms
+[2024-11-21 18:48:23] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:23] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:23] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:23] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:23] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:23] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:24] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:24] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:24] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:24] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:24] DEBUG: Silence duration: 170 ms
+[2024-11-21 18:48:24] DEBUG: Silence duration: 510 ms
+[2024-11-21 18:48:25] DEBUG: Silence duration: 680 ms
+[2024-11-21 18:48:25] DEBUG: Silence duration: 1020 ms
+[2024-11-21 18:48:25] DEBUG: Silence duration: 1190 ms
+[2024-11-21 18:48:25] DEBUG: Silence duration: 1530 ms
+[2024-11-21 18:48:26] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:26] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:26] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:26] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:26] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:26] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:26] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:26] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:28] DEBUG: Silence duration: 170 ms
+[2024-11-21 18:48:28] DEBUG: Silence duration: 510 ms
+[2024-11-21 18:48:28] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:28] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:28] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:28] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:29] DEBUG: Silence duration: 170 ms
+[2024-11-21 18:48:29] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:29] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:29] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:29] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:29] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:29] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:30] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:30] DEBUG: Silence duration: 340 ms
+[2024-11-21 18:48:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:30] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:32] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:32] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:32] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:32] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:32] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:32] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:32] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:32] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:33] DEBUG: Silence duration: 340 ms
+[2024-11-21 18:48:33] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:33] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:33] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:33] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:33] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:33] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:34] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:34] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:34] DEBUG: Silence duration: 170 ms
+[2024-11-21 18:48:34] DEBUG: Silence duration: 510 ms
+[2024-11-21 18:48:34] DEBUG: Silence duration: 680 ms
+[2024-11-21 18:48:35] DEBUG: Silence duration: 1020 ms
+[2024-11-21 18:48:35] DEBUG: Silence duration: 1190 ms
+[2024-11-21 18:48:35] DEBUG: Silence duration: 1530 ms
+[2024-11-21 18:48:35] DEBUG: Silence duration: 1700 ms
+[2024-11-21 18:48:36] DEBUG: Silence duration: 2040 ms
+[2024-11-21 18:48:36] DEBUG: Silence duration: 2210 ms
+[2024-11-21 18:48:36] DEBUG: Silence duration: 2560 ms
+[2024-11-21 18:48:36] DEBUG: Silence duration: 2730 ms
+[2024-11-21 18:48:37] DEBUG: Silence duration: 3070 ms
+[2024-11-21 18:48:37] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-21 18:48:37] DEBUG: Sending data to server: End_Recording
+[2024-11-21 18:48:38] INFO: Voice detected, starting streaming...
+[2024-11-21 18:48:38] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:38] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:38] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:38] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:38] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:38] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:38] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:38] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:39] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:39] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:39] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:39] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:39] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:39] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:39] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:39] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:40] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:40] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:40] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:40] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:40] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:40] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:40] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:40] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:41] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:41] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:41] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:41] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:41] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:41] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:41] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:41] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:42] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:42] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:42] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:42] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:42] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:42] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:42] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:42] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:43] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:43] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:43] DEBUG: Audio data sent to server in real-time:
+[2024-11-21 18:48:43] DEBUG: Sending data to server: Stream_Data
+[2024-11-21 18:48:43] ERROR: Client Server has been down
+[2024-11-22 00:07:52] INFO: Connected to the server at http://localhost:3000
+[2024-11-22 00:07:52] INFO: Starting recording...
+[2024-11-22 00:07:52] INFO: Recording started...
+[2024-11-22 00:07:59] INFO: Voice detected, starting streaming...
+[2024-11-22 00:07:59] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:07:59] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:00] DEBUG: Silence duration: 350 ms
+[2024-11-22 00:08:00] DEBUG: Silence duration: 520 ms
+[2024-11-22 00:08:00] DEBUG: Silence duration: 860 ms
+[2024-11-22 00:08:00] DEBUG: Silence duration: 1030 ms
+[2024-11-22 00:08:01] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:01] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:01] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:01] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:01] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:01] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:01] DEBUG: Silence duration: 170 ms
+[2024-11-22 00:08:02] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:08:02] DEBUG: Silence duration: 680 ms
+[2024-11-22 00:08:02] DEBUG: Silence duration: 1030 ms
+[2024-11-22 00:08:02] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:02] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:03] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:03] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:03] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:03] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:03] DEBUG: Silence duration: 340 ms
+[2024-11-22 00:08:04] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:08:04] DEBUG: Silence duration: 850 ms
+[2024-11-22 00:08:04] DEBUG: Silence duration: 1021 ms
+[2024-11-22 00:08:04] DEBUG: Silence duration: 1360 ms
+[2024-11-22 00:08:05] DEBUG: Silence duration: 1530 ms
+[2024-11-22 00:08:05] DEBUG: Silence duration: 1880 ms
+[2024-11-22 00:08:05] DEBUG: Silence duration: 2050 ms
+[2024-11-22 00:08:05] DEBUG: Silence duration: 2391 ms
+[2024-11-22 00:08:06] DEBUG: Silence duration: 2560 ms
+[2024-11-22 00:08:06] DEBUG: Silence duration: 2900 ms
+[2024-11-22 00:08:06] DEBUG: Silence duration: 3070 ms
+[2024-11-22 00:08:06] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-22 00:08:06] DEBUG: Sending data to server: End_Recording
+[2024-11-22 00:08:14] INFO: Voice detected, starting streaming...
+[2024-11-22 00:08:14] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:14] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:14] DEBUG: Silence duration: 170 ms
+[2024-11-22 00:08:14] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:08:14] DEBUG: Silence duration: 680 ms
+[2024-11-22 00:08:15] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:15] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:15] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:15] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:15] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:15] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:15] DEBUG: Silence duration: 170 ms
+[2024-11-22 00:08:16] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:08:16] INFO: Connected to the server at http://localhost:3000
+[2024-11-22 00:08:16] INFO: Starting recording...
+[2024-11-22 00:08:16] INFO: Recording started...
+[2024-11-22 00:08:16] DEBUG: Silence duration: 680 ms
+[2024-11-22 00:08:16] DEBUG: Silence duration: 1021 ms
+[2024-11-22 00:08:16] DEBUG: Silence duration: 1190 ms
+[2024-11-22 00:08:17] DEBUG: Silence duration: 1530 ms
+[2024-11-22 00:08:17] DEBUG: Silence duration: 1700 ms
+[2024-11-22 00:08:17] DEBUG: Silence duration: 2040 ms
+[2024-11-22 00:08:17] DEBUG: Silence duration: 2210 ms
+[2024-11-22 00:08:18] DEBUG: Silence duration: 2560 ms
+[2024-11-22 00:08:18] DEBUG: Silence duration: 2730 ms
+[2024-11-22 00:08:18] DEBUG: Silence duration: 3070 ms
+[2024-11-22 00:08:18] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-22 00:08:18] DEBUG: Sending data to server: End_Recording
+[2024-11-22 00:08:21] INFO: Voice detected, starting streaming...
+[2024-11-22 00:08:21] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:21] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:21] INFO: Voice detected, starting streaming...
+[2024-11-22 00:08:21] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:21] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:21] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:21] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:21] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:21] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:21] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:21] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:22] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:22] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:22] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:22] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:22] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:22] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:22] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:22] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:22] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:22] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:22] DEBUG: Silence duration: 170 ms
+[2024-11-22 00:08:22] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:22] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:22] DEBUG: Silence duration: 170 ms
+[2024-11-22 00:08:23] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:08:23] DEBUG: Silence duration: 680 ms
+[2024-11-22 00:08:23] DEBUG: Silence duration: 520 ms
+[2024-11-22 00:08:23] DEBUG: Silence duration: 690 ms
+[2024-11-22 00:08:23] DEBUG: Silence duration: 1020 ms
+[2024-11-22 00:08:23] DEBUG: Silence duration: 1190 ms
+[2024-11-22 00:08:23] DEBUG: Silence duration: 1030 ms
+[2024-11-22 00:08:23] DEBUG: Silence duration: 1200 ms
+[2024-11-22 00:08:24] DEBUG: Silence duration: 1540 ms
+[2024-11-22 00:08:24] DEBUG: Silence duration: 1710 ms
+[2024-11-22 00:08:24] DEBUG: Silence duration: 1541 ms
+[2024-11-22 00:08:24] DEBUG: Silence duration: 1710 ms
+[2024-11-22 00:08:24] DEBUG: Silence duration: 2050 ms
+[2024-11-22 00:08:24] DEBUG: Silence duration: 2220 ms
+[2024-11-22 00:08:24] DEBUG: Silence duration: 2050 ms
+[2024-11-22 00:08:24] DEBUG: Silence duration: 2220 ms
+[2024-11-22 00:08:25] DEBUG: Silence duration: 2560 ms
+[2024-11-22 00:08:25] DEBUG: Silence duration: 2730 ms
+[2024-11-22 00:08:25] DEBUG: Silence duration: 2560 ms
+[2024-11-22 00:08:25] DEBUG: Silence duration: 2730 ms
+[2024-11-22 00:08:25] DEBUG: Silence duration: 3070 ms
+[2024-11-22 00:08:25] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-22 00:08:25] DEBUG: Sending data to server: End_Recording
+[2024-11-22 00:08:25] DEBUG: Silence duration: 3080 ms
+[2024-11-22 00:08:25] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-22 00:08:25] DEBUG: Sending data to server: End_Recording
+[2024-11-22 00:08:27] INFO: Voice detected, starting streaming...
+[2024-11-22 00:08:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:27] INFO: Voice detected, starting streaming...
+[2024-11-22 00:08:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:27] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:27] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:28] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:28] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:28] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:28] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:28] DEBUG: Silence duration: 170 ms
+[2024-11-22 00:08:28] DEBUG: Silence duration: 350 ms
+[2024-11-22 00:08:28] DEBUG: Silence duration: 520 ms
+[2024-11-22 00:08:28] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:08:28] DEBUG: Silence duration: 680 ms
+[2024-11-22 00:08:28] DEBUG: Silence duration: 860 ms
+[2024-11-22 00:08:29] DEBUG: Silence duration: 1030 ms
+[2024-11-22 00:08:29] DEBUG: Silence duration: 1030 ms
+[2024-11-22 00:08:29] DEBUG: Silence duration: 1200 ms
+[2024-11-22 00:08:29] DEBUG: Silence duration: 1370 ms
+[2024-11-22 00:08:29] DEBUG: Silence duration: 1540 ms
+[2024-11-22 00:08:29] DEBUG: Silence duration: 1540 ms
+[2024-11-22 00:08:29] DEBUG: Silence duration: 1710 ms
+[2024-11-22 00:08:29] DEBUG: Silence duration: 1880 ms
+[2024-11-22 00:08:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:30] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:30] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:30] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:30] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:30] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:30] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:30] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:30] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:30] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:31] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:31] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:32] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:32] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:32] DEBUG: Silence duration: 340 ms
+[2024-11-22 00:08:32] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:08:32] DEBUG: Silence duration: 340 ms
+[2024-11-22 00:08:32] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:08:32] DEBUG: Silence duration: 850 ms
+[2024-11-22 00:08:32] DEBUG: Silence duration: 1020 ms
+[2024-11-22 00:08:33] DEBUG: Silence duration: 850 ms
+[2024-11-22 00:08:33] DEBUG: Silence duration: 1020 ms
+[2024-11-22 00:08:33] DEBUG: Silence duration: 1360 ms
+[2024-11-22 00:08:33] DEBUG: Silence duration: 1530 ms
+[2024-11-22 00:08:33] DEBUG: Silence duration: 1370 ms
+[2024-11-22 00:08:33] DEBUG: Silence duration: 1540 ms
+[2024-11-22 00:08:33] DEBUG: Silence duration: 1870 ms
+[2024-11-22 00:08:34] DEBUG: Silence duration: 2040 ms
+[2024-11-22 00:08:34] DEBUG: Silence duration: 1880 ms
+[2024-11-22 00:08:34] DEBUG: Silence duration: 2050 ms
+[2024-11-22 00:08:34] DEBUG: Silence duration: 2390 ms
+[2024-11-22 00:08:34] DEBUG: Silence duration: 2560 ms
+[2024-11-22 00:08:34] DEBUG: Silence duration: 2390 ms
+[2024-11-22 00:08:34] DEBUG: Silence duration: 2560 ms
+[2024-11-22 00:08:34] DEBUG: Silence duration: 2901 ms
+[2024-11-22 00:08:35] DEBUG: Silence duration: 3070 ms
+[2024-11-22 00:08:35] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-22 00:08:35] DEBUG: Sending data to server: End_Recording
+[2024-11-22 00:08:35] DEBUG: Silence duration: 2900 ms
+[2024-11-22 00:08:35] DEBUG: Silence duration: 3071 ms
+[2024-11-22 00:08:35] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-22 00:08:35] DEBUG: Sending data to server: End_Recording
+[2024-11-22 00:08:35] INFO: Voice detected, starting streaming...
+[2024-11-22 00:08:35] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:35] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:35] INFO: Voice detected, starting streaming...
+[2024-11-22 00:08:35] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:35] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:36] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:36] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:36] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:36] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:36] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:36] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:36] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:36] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:36] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:36] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:36] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:36] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:36] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:36] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:36] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:36] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:37] DEBUG: Silence duration: 170 ms
+[2024-11-22 00:08:37] DEBUG: Silence duration: 340 ms
+[2024-11-22 00:08:37] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:08:37] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:08:37] DEBUG: Silence duration: 680 ms
+[2024-11-22 00:08:37] DEBUG: Silence duration: 850 ms
+[2024-11-22 00:08:37] DEBUG: Silence duration: 1020 ms
+[2024-11-22 00:08:37] DEBUG: Silence duration: 1020 ms
+[2024-11-22 00:08:38] DEBUG: Silence duration: 1191 ms
+[2024-11-22 00:08:38] DEBUG: Silence duration: 1360 ms
+[2024-11-22 00:08:38] DEBUG: Silence duration: 1530 ms
+[2024-11-22 00:08:38] DEBUG: Silence duration: 1530 ms
+[2024-11-22 00:08:38] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:38] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:38] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:38] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:38] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:38] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:38] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:38] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:39] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:39] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:39] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:08:39] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:08:39] DEBUG: Silence duration: 170 ms
+[2024-11-22 00:08:39] DEBUG: Silence duration: 350 ms
+[2024-11-22 00:08:39] DEBUG: Silence duration: 520 ms
+[2024-11-22 00:08:39] DEBUG: Silence duration: 511 ms
+[2024-11-22 00:08:39] DEBUG: Silence duration: 680 ms
+[2024-11-22 00:08:39] DEBUG: Silence duration: 860 ms
+[2024-11-22 00:08:40] DEBUG: Silence duration: 1030 ms
+[2024-11-22 00:08:40] DEBUG: Silence duration: 1020 ms
+[2024-11-22 00:08:40] DEBUG: Silence duration: 1190 ms
+[2024-11-22 00:08:40] DEBUG: Silence duration: 1370 ms
+[2024-11-22 00:08:40] DEBUG: Silence duration: 1540 ms
+[2024-11-22 00:08:40] DEBUG: Silence duration: 1530 ms
+[2024-11-22 00:08:40] DEBUG: Silence duration: 1700 ms
+[2024-11-22 00:08:41] DEBUG: Silence duration: 1880 ms
+[2024-11-22 00:08:41] DEBUG: Silence duration: 2050 ms
+[2024-11-22 00:08:41] DEBUG: Silence duration: 2050 ms
+[2024-11-22 00:08:41] DEBUG: Silence duration: 2220 ms
+[2024-11-22 00:08:41] DEBUG: Silence duration: 2390 ms
+[2024-11-22 00:08:41] DEBUG: Silence duration: 2560 ms
+[2024-11-22 00:08:41] DEBUG: Silence duration: 2560 ms
+[2024-11-22 00:08:41] DEBUG: Silence duration: 2730 ms
+[2024-11-22 00:08:42] DEBUG: Silence duration: 2910 ms
+[2024-11-22 00:08:42] DEBUG: Silence duration: 3080 ms
+[2024-11-22 00:08:42] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-22 00:08:42] DEBUG: Sending data to server: End_Recording
+[2024-11-22 00:08:42] DEBUG: Silence duration: 3070 ms
+[2024-11-22 00:08:42] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-22 00:08:42] DEBUG: Sending data to server: End_Recording
+[2024-11-22 00:09:25] INFO: Voice detected, starting streaming...
+[2024-11-22 00:09:25] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:09:25] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:09:26] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 00:09:26] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 00:09:26] DEBUG: Silence duration: 171 ms
+[2024-11-22 00:09:26] DEBUG: Silence duration: 510 ms
+[2024-11-22 00:09:26] DEBUG: Silence duration: 680 ms
+[2024-11-22 00:09:27] DEBUG: Silence duration: 1030 ms
+[2024-11-22 00:09:27] DEBUG: Silence duration: 1201 ms
+[2024-11-22 00:09:27] DEBUG: Silence duration: 1540 ms
+[2024-11-22 00:09:27] DEBUG: Silence duration: 1710 ms
+[2024-11-22 00:09:28] DEBUG: Silence duration: 2051 ms
+[2024-11-22 00:09:28] DEBUG: Silence duration: 2220 ms
+[2024-11-22 00:09:28] DEBUG: Silence duration: 2561 ms
+[2024-11-22 00:09:28] INFO: Disconnected from server
+[2024-11-22 00:09:28] INFO: Recording stopped...
+[2024-11-22 09:31:59] INFO: Connected to the server at http://localhost:3000
+[2024-11-22 09:31:59] INFO: Starting recording...
+[2024-11-22 09:31:59] INFO: Recording started...
+[2024-11-22 09:32:01] INFO: Voice detected, starting streaming...
+[2024-11-22 09:32:01] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:01] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:01] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:01] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:02] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:02] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:02] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:02] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:02] DEBUG: Silence duration: 350 ms
+[2024-11-22 09:32:02] DEBUG: Silence duration: 520 ms
+[2024-11-22 09:32:03] DEBUG: Silence duration: 860 ms
+[2024-11-22 09:32:03] DEBUG: Silence duration: 1030 ms
+[2024-11-22 09:32:03] DEBUG: Silence duration: 1370 ms
+[2024-11-22 09:32:03] DEBUG: Silence duration: 1541 ms
+[2024-11-22 09:32:04] DEBUG: Silence duration: 1880 ms
+[2024-11-22 09:32:04] DEBUG: Silence duration: 2050 ms
+[2024-11-22 09:32:04] DEBUG: Silence duration: 2390 ms
+[2024-11-22 09:32:04] DEBUG: Silence duration: 2560 ms
+[2024-11-22 09:32:05] DEBUG: Silence duration: 2910 ms
+[2024-11-22 09:32:05] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:05] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:05] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:05] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:05] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:05] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:06] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:06] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:06] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:06] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:06] DEBUG: Silence duration: 340 ms
+[2024-11-22 09:32:06] DEBUG: Silence duration: 510 ms
+[2024-11-22 09:32:07] DEBUG: Silence duration: 850 ms
+[2024-11-22 09:32:07] DEBUG: Silence duration: 1020 ms
+[2024-11-22 09:32:07] DEBUG: Silence duration: 1370 ms
+[2024-11-22 09:32:07] DEBUG: Silence duration: 1540 ms
+[2024-11-22 09:32:08] DEBUG: Silence duration: 1880 ms
+[2024-11-22 09:32:08] DEBUG: Silence duration: 2050 ms
+[2024-11-22 09:32:08] DEBUG: Silence duration: 2390 ms
+[2024-11-22 09:32:08] DEBUG: Silence duration: 2560 ms
+[2024-11-22 09:32:09] DEBUG: Silence duration: 2900 ms
+[2024-11-22 09:32:09] INFO: Disconnected from server
+[2024-11-22 09:32:09] INFO: Recording stopped...
+[2024-11-22 09:32:19] INFO: Connected to the server at http://localhost:3000
+[2024-11-22 09:32:19] INFO: Starting recording...
+[2024-11-22 09:32:19] INFO: Recording started...
+[2024-11-22 09:32:20] INFO: Voice detected, starting streaming...
+[2024-11-22 09:32:20] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:20] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:20] DEBUG: Silence duration: 340 ms
+[2024-11-22 09:32:20] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:20] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:21] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:21] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:21] DEBUG: Silence duration: 170 ms
+[2024-11-22 09:32:21] DEBUG: Silence duration: 510 ms
+[2024-11-22 09:32:21] DEBUG: Silence duration: 680 ms
+[2024-11-22 09:32:22] DEBUG: Silence duration: 1030 ms
+[2024-11-22 09:32:22] DEBUG: Silence duration: 1200 ms
+[2024-11-22 09:32:22] DEBUG: Silence duration: 1540 ms
+[2024-11-22 09:32:22] DEBUG: Silence duration: 1710 ms
+[2024-11-22 09:32:23] DEBUG: Silence duration: 2050 ms
+[2024-11-22 09:32:23] DEBUG: Silence duration: 2220 ms
+[2024-11-22 09:32:23] DEBUG: Silence duration: 2560 ms
+[2024-11-22 09:32:23] DEBUG: Silence duration: 2730 ms
+[2024-11-22 09:32:24] DEBUG: Silence duration: 3070 ms
+[2024-11-22 09:32:24] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-22 09:32:24] DEBUG: Sending data to server: End_Recording
+[2024-11-22 09:32:26] INFO: Disconnected from server
+[2024-11-22 09:32:26] INFO: Recording stopped...
+[2024-11-22 09:32:42] INFO: Connected to the server at http://localhost:3000
+[2024-11-22 09:32:42] INFO: Starting recording...
+[2024-11-22 09:32:42] INFO: Recording started...
+[2024-11-22 09:32:44] INFO: Voice detected, starting streaming...
+[2024-11-22 09:32:44] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:44] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:44] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:44] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:44] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:44] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:44] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:44] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:45] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:45] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:45] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:45] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:45] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:45] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:45] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:45] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:46] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:46] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:46] DEBUG: Audio data sent to server in real-time:
+[2024-11-22 09:32:46] DEBUG: Sending data to server: Stream_Data
+[2024-11-22 09:32:46] DEBUG: Silence duration: 340 ms
+[2024-11-22 09:32:47] DEBUG: Silence duration: 510 ms
+[2024-11-22 09:32:47] DEBUG: Silence duration: 850 ms
+[2024-11-22 09:32:47] DEBUG: Silence duration: 1020 ms
+[2024-11-22 09:32:47] DEBUG: Silence duration: 1370 ms
+[2024-11-22 09:32:48] DEBUG: Silence duration: 1540 ms
+[2024-11-22 09:32:48] DEBUG: Silence duration: 1880 ms
+[2024-11-22 09:32:48] DEBUG: Silence duration: 2050 ms
+[2024-11-22 09:32:48] DEBUG: Silence duration: 2390 ms
+[2024-11-22 09:32:49] DEBUG: Silence duration: 2560 ms
+[2024-11-22 09:32:49] DEBUG: Silence duration: 2900 ms
+[2024-11-22 09:32:49] DEBUG: Silence duration: 3070 ms
+[2024-11-22 09:32:49] INFO: Silence detected for 3 seconds, stopping streaming...
+[2024-11-22 09:32:49] DEBUG: Sending data to server: End_Recording
